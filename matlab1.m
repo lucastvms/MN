@@ -16,3 +16,4 @@ aMat = ones(9)*2
 
 % http://w3.impa.br/~zubelli/tutorial/node3.html
 % https://www.mathworks.com/help/matlab/ref/logspace.html
+% https://www.mathworks.com/help/matlab/ref/ones.html
